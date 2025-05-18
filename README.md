@@ -20,3 +20,12 @@ Movie_Recommender/
 ├── similarity.pkl
 └── README.md
 ```
+---
+
+## ⚙️ Prerequisites
+
+- Python 3.8 or higher  
+- A free TMDb API key (signup at https://www.themoviedb.org/settings/api)  
+- [Kaggle CLI](https://github.com/Kaggle/kaggle-api) configured with your credentials  
+
+---
