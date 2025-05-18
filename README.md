@@ -48,11 +48,7 @@ Movie_Recommender/
    This will download and unzip the Kaggle dataset into your `~/Downloads` folder:
 
     ```bash
-    #!/bin/bash
-    curl -L -o ~/Downloads/tmdb-movie-metadata.zip \
-      https://www.kaggle.com/api/v1/datasets/download/tmdb/tmdb-movie-metadata
-    unzip ~/Downloads/tmdb-movie-metadata.zip -d ~/Downloads
-    cp ~/Downloads/tmdb_5000_*.csv .
+    https://www.kaggle.com/api/v1/datasets/download/tmdb/tmdb-movie-metadata
     ```
 
 4. **Generate the pickled data**  
