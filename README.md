@@ -7,7 +7,7 @@ A Streamlit‑based movie recommender that lets you:
 - See movie posters fetched live from TMDb
 
 ---
-## Project Structure
+## 📂 Project Structure
 
 ```
 Movie_Recommender/
@@ -70,3 +70,10 @@ Movie_Recommender/
    Replace `YOUR_API_KEY_HERE` with your actual TMDb API key.
 
 ---
+
+## 🚀 Running the App
+
+Once everything is set up, launch the Streamlit app:
+
+```bash
+streamlit run app.py
