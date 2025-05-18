@@ -9,12 +9,12 @@ A Streamlit‑based movie recommender that lets you:
 ---
 ## 📂 Repository Structure
 
-Movie_Recommender/
-├── app.py
-├── Movie_Recommender.ipynb
-├── requirements.txt
-├── tmdb_5000_credits.csv
-├── tmdb_5000_movies.csv
-├── movies_dict.pkl 
-├── similarity.pkl 
-└── README.md
+'''Movie_Recommender/'''
+'''├── app.py'''
+'''├── Movie_Recommender.ipynb'''
+'''├── requirements.txt'''
+'''├── tmdb_5000_credits.csv'''
+'''├── tmdb_5000_movies.csv'''
+'''├── movies_dict.pkl''' 
+'''├── similarity.pkl''' 
+'''└── README.md'''
