@@ -45,7 +45,7 @@ Movie_Recommender/
     ```
 
 3. **Download the TMDb metadata**  
-   This will download and unzip the Kaggle dataset into your `~/Downloads` folder:
+   This will download and unzip the Kaggle dataset into your `~/Movie_Recommender` folder:
 
     ```bash
     https://www.kaggle.com/api/v1/datasets/download/tmdb/tmdb-movie-metadata
